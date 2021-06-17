@@ -1,11 +1,12 @@
 # Captain Tega
-## Submission made for the GMTK Jam 2021
-**Play the game** https://cialdi.itch.io/captain-tega
 
 Captain Tega needs your help to guide through Tega City's intricate harbour and dock his huge cargo ship safely.
 
-**Controls** 
-WASD to move the boat.
+## GMTK Jam 2021
+
+<iframe src="https://itch.io/embed/1086531" height="167" width="552" frameborder="0"><a href="https://cialdi.itch.io/captain-tega">Captain Tega by Cialdi, _BEPPE98_, Elia Perantoni, Fabs</a></iframe>
+
+**Play the game** https://cialdi.itch.io/captain-tega
 
 
 # Project
