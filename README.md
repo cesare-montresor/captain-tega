@@ -17,15 +17,15 @@ All scripts, models and music (except final victory jingle) were created within 
 
 ## Team
 
-**Programming**
-- https://hex08.itch.io/ 
-- https://cialdi.itch.io/ 
+**Programming**   
+- https://hex08.itch.io/    
+- https://cialdi.itch.io/     
 
-**Music**
-https://superbeppe98.itch.io/ 
+**Music**      
+- https://superbeppe98.itch.io/    
 
-**3D art**
-https://cialdi.itch.io/ 
+**3D art**    
+- https://cialdi.itch.io/      
 
-**2D art**
-https://fabiolafabs.itch.io/
+**2D art**    
+- https://fabiolafabs.itch.io/    
