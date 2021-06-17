@@ -4,9 +4,10 @@ Captain Tega needs your help to guide through Tega City's intricate harbour and 
 
 ## GMTK Jam 2021
 
-<iframe src="https://itch.io/embed/1086531" height="167" width="552" frameborder="0"><a href="https://cialdi.itch.io/captain-tega">Captain Tega by Cialdi, _BEPPE98_, Elia Perantoni, Fabs</a></iframe>
+[![Play the game][1]][2]
 
-**Play the game** https://cialdi.itch.io/captain-tega
+[1]: https://i.imgur.com/9oxr5Ez.png
+[2]: https://cialdi.itch.io/captain-tega
 
 
 # Project
